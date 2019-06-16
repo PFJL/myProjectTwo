@@ -2,3 +2,8 @@ h2{
     color: red;
     font-size: 30px;
 }
+p{
+    width: 100px;
+    height: 30px;
+    border: 1px solid red;
+}
